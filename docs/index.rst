@@ -1,0 +1,75 @@
+.. projectname documentation master file, created by
+   sphinx-quickstart on Thu Mar 15 13:55:56 2018.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Welcome to ProjectName's documentation!
+=========================================================
+
+.. grid:: 2
+
+    .. grid-item-card:: Getting Started
+      
+      Learn the basics of using ProjectName.
+
+      .. button-link:: ./getting_started.html
+         :color: primary
+         :outline:
+         :expand:
+
+         To the Getting Started Guide
+
+      --------------------------------
+
+    .. grid-item-card::  User Guide
+      
+      An in-depth guide for users
+
+      .. button-link:: ./user_guide.html
+         :color: primary
+         :outline:
+         :expand:
+
+         To the User Guide
+      
+      --------------------------
+
+.. grid:: 2
+
+    .. grid-item-card:: API Reference
+      
+      How to use the API of ProjectName.
+
+      .. button-link:: ./api.html
+         :color: primary
+         :outline:
+         :expand:
+
+         To the API Reference.
+
+      --------------------------------
+
+    .. grid-item-card::  Developer Guide
+      
+      How to contribute to ProjectName
+
+      .. button-link:: ./developer_guide.html
+         :color: primary
+         :outline:
+         :expand:
+
+         To the Developer Guide
+      
+      --------------------------
+
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :titlesonly:
+
+   getting_started
+   user_guide
+   api
+   developer_guide
+
