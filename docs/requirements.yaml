@@ -1,9 +1,12 @@
 name: docs
 channels:
+  - conda-forge
 dependencies:
     # Base depends
   - python
   - pip
+  - sphinx_pydata_theme
+  - sphinx_design
 
 
 
