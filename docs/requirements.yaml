@@ -5,7 +5,7 @@ dependencies:
     # Base depends
   - python
   - pip
-  - sphinx-pydata-theme
+  - pydata-sphinx-theme
   - sphinx-design
 
 
