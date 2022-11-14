@@ -6,9 +6,10 @@
 Welcome to ProjectName's documentation!
 =========================================================
 
-.. grid:: 2
+.. grid:: 1 1 2 2
 
     .. grid-item-card:: Getting Started
+      :margin: 0 3 0 0 
       
       Learn the basics of using ProjectName.
 
@@ -19,9 +20,8 @@ Welcome to ProjectName's documentation!
 
          To the Getting Started Guide
 
-      --------------------------------
-
     .. grid-item-card::  User Guide
+      :margin: 0 3 0 0
       
       An in-depth guide for users
 
@@ -31,12 +31,9 @@ Welcome to ProjectName's documentation!
          :expand:
 
          To the User Guide
-      
-      --------------------------
-
-.. grid:: 2
 
     .. grid-item-card:: API Reference
+      :margin: 0 3 0 0
       
       How to use the API of ProjectName.
 
@@ -47,9 +44,8 @@ Welcome to ProjectName's documentation!
 
          To the API Reference.
 
-      --------------------------------
-
     .. grid-item-card::  Developer Guide
+      :margin: 0 3 0 0
       
       How to contribute to ProjectName
 
@@ -59,8 +55,6 @@ Welcome to ProjectName's documentation!
          :expand:
 
          To the Developer Guide
-      
-      --------------------------
 
 
 .. toctree::
